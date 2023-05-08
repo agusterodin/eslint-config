@@ -1,6 +1,6 @@
 {
-  "name": "@agusterodin/eslint-config-test",
-  "version": "1.0.1",
+  "name": "@agusterodin/eslint-config",
+  "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
     "eslint-config-next": "^13",
