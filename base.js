@@ -3,8 +3,8 @@ module.exports = {
   rules: {
     'indent': ['warn', 2, { SwitchCase: 1 }],
     'linebreak-style': ['warn', 'unix'],
-    'quotes': ['warn', 'single'],
     'semi': ['warn', 'never'],
+    'quotes': ['warn', 'single'],
     'no-extra-semi': 'warn',
     'brace-style': ['warn', 'stroustrup'],
     'no-var': ['warn'],
